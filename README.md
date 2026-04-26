@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm seeking research-driven roles in AI, Machine Learning, and Computer Science, where I can apply my rigorous mathematical analysis to real-world situations. 
+
+I have a drive for interdisciplinary mastery, and I thrive on translating computation into solutions across different fields.
+
+My past projects cover a wide range of topics, often focused on modeling/simulations and Artificial Intelligence.
+
+- I've constructed simulations of many popular games, including Monopoly, Chess, and Clash Royale, capable of easily defeating human players.
+- I've developed models with algorithms and machine-learning structures to model disease and other natural phenomena.
+- I've worked as a paid freelance developer for multiple clients and collaborated with over 200+ developers, and I'm always looking for more opportunities for new projects.
